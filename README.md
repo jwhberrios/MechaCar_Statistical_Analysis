@@ -10,4 +10,7 @@ A multiple linear regression test was performed using the following variables to
 * AWD
 
 The results are presented below in figure 1.
-![Linear Regression to Predict MPG](
+
+![figure 1. Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
+
+figure 1. Multiple linear regression to predict MPG result output
