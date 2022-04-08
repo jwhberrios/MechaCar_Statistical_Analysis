@@ -16,4 +16,5 @@ The results are presented below in figure 1.
 figure 1. Multiple linear regression to predict MPG result output
 
 ### Results
+Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
 
