@@ -57,3 +57,8 @@ figure 5. Multiple t-test results comparing each individual lots
 ### Results
 
 The results for all manufacturing lots did not result in a statistically significant different mean (p <0.05) compared to the population mean. However, the mean for lot 3 in the multiple t-test yielded significantly different mean (p < 0.05) from the population value. It's mean of 1496.14 PSI is statitistically less than the population mean of 1500 PSI.
+
+
+## Study Design: MechaCar vs Competition
+
+
