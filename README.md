@@ -61,11 +61,13 @@ The results for all manufacturing lots did not result in a statistically signifi
 
 ## Study Design: MechaCar vs Competition
 
-In this study, the statement of the problem is how does MechaCar's drivetrain (AWD vs 2WD) compare to other competitor vehicle's drivetrain on annual maintenance cost? The metrics to test will be the mean, median, and standard deviation of annual maintenance cost for MechaCar and its competitor's automobile (AWD vs 2WD).
-The null hypothesis would be there will no difference in maintenance cost between MechaCar's AWD and 2WD drivetrain and its competitor's automobile drivetrain (AWD vs 2WD).
-The alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCar's drivetrain (AWD vs 2WD) vehicles and its competitor's vehicles.
+In this study, the statement of the problem is how does MechaCar's drivetrain (AWD vs 2WD) compare to other competitor vehicle's drivetrain on annual maintenance cost? The metrics to test will be the mean, median, and standard deviation of annual maintenance cost for MechaCar with AWD and 2WD drivetrains and its competitor's automobiles with AWD and 2WD drivetrains.
+The null hypothesis would be there will no difference in maintenance cost between MechaCars with AWD and 2WD drivetrain and its competitor's vehicles with AWD and 2WD drivetrains.
 
-The statistical test to run this analysis will be a 2x2 ANOVA test because the independent variable is a two level categorical variable (MechaCar Vs Competition; AWD vs 2WD drivetrain) and the dependent variable is continuous (annual maintenance cost). The overall analysis is looking for statistical differences in means between more than 2 sample groups.
+The first alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with AWD compared to its competitor's vehicles with AWD.
+The second alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with 2WD compared to its competitor's vehicles with 2WD.
+
+The statistical test to run this analysis will be a 2x2 ANOVA test because the independent variable is a two level categorical variable (MechaCar Vs Competitor's Vehicles; AWD vs 2WD drivetrain) and the dependent variable is continuous (annual maintenance cost). The overall analysis is looking for statistical differences in means between more than 2 sample groups.
 
 In order to run this analysis, the data to be used would be the annual maintenance cost between vehicles (MechaCar and its competitor's vehicles) that have full time  AWD options and those with 2WD options only.
 
