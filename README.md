@@ -28,6 +28,8 @@ The mean, meadian, variance, and standard deviation was calculated using suspens
 
 figure 2. Summary statistic table 
 
+
+
 ![figure 3. Summary statistic table per lot](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Summary_lot_table.png)
 
 figure 3. Summary statistic table per lot
