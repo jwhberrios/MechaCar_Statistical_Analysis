@@ -13,7 +13,7 @@ The results are presented below in figure 1.
 
 ![figure 1. Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
 
-figure 1. Linear regLression to predict MPG result output
+figure 1. Linear regression to predict MPG result output
 
 ### Results
 Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
@@ -41,5 +41,9 @@ As such, based on this data analyses, the current manufacturing data does not me
 
 
 ## T-Tests on Suspension Coils
+T-tests were performed to determine if all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch.
+The results of the simple student t-test to determine if all manufacturing lots were statistically different from the population mean of 1,500 pounds per square inch are presented in figure 4. A multiple t-test analyzing data for each lot individually are presented in figure 5.
+
+
 
 
