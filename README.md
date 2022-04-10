@@ -22,8 +22,11 @@ The slope of this linear model is not considered to be zero becuase the R square
 
 
 ## Summary Statistics on Suspension Coils
-The mean, meadian, variance, and standard deviation was calculated using suspension coil data that was provided. The summary statistic of the data is presented in figure 1 and the summary statistic per lot is presented in figure 2.
+The mean, meadian, variance, and standard deviation was calculated using suspension coil data that was provided. The summary statistic of the data is presented in figure 2 and the summary statistic per lot is presented in figure 3.
 
-![figure 1. Summary statistic table](
+![figure 2. Summary statistic table](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Coil_summary_table.png)
+figure 2. Summary statistic table 
+
+![figure 3. Summary statistic table per lot](
 
 
