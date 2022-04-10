@@ -40,5 +40,6 @@ With the design specifications for the MechaCar suspension coils dictate that th
 As such, based on this data analyses, the current manufacturing data does not meet the design specifications for all manufacturing lots in total and each lot individually. 
 
 
+## T-Tests on Suspension Coils
 
 
