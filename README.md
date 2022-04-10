@@ -49,6 +49,7 @@ The results of the simple student t-test to determine if all manufacturing lots 
 figure 4. T-test results for all manufacturing lots
 
 
+
 ![figure 5. Multiple t-test results comparing each individual lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Mulitple_t_test.png)
 
 figure 5. Multiple t-test results comparing each individual lots
