@@ -13,7 +13,7 @@ The results are presented below in figure 1.
 
 ![figure 1. Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
 
-figure 1. Linear regLression to predict MPG result output
+figure 1. Linear regression to predict MPG result output
 
 ### Results
 Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
@@ -22,8 +22,28 @@ The slope of this linear model is not considered to be zero becuase the R square
 
 
 ## Summary Statistics on Suspension Coils
-The mean, meadian, variance, and standard deviation was calculated using suspension coil data that was provided. The summary statistic of the data is presented in figure 1 and the summary statistic per lot is presented in figure 2.
+The mean, meadian, variance, and standard deviation was calculated using suspension coil data that was provided. The summary statistic of the data is presented in figure 2 and the summary statistic per lot is presented in figure 3.
 
-![figure 1. Summary statistic table](
+![figure 2. Summary statistic table](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Coil_summary_table.png)
+
+figure 2. Summary statistic table 
+
+
+
+![figure 3. Summary statistic table per lot](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Summary_lot_table.png)
+
+figure 3. Summary statistic table per lot
+
+### Results
+With the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch, the variance presented in figure 2 is below 100 PSI. The variance for each lot presented in figure 3 indicates the suspension coil during production does not exceed design specifications for lots 1 & 2. However, lot 3 shows a variance greater than 100 (170 PSI).
+
+As such, based on this data analyses, the current manufacturing data meets the design specifications for all manufacturing lots in total. For each individual lots, lot 3 failed to meet the 100 PSI maximum variance in suspension coil.
+
+
+## T-Tests on Suspension Coils
+T-tests were performed to determine if all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch.
+The results of the simple student t-test to determine if all manufacturing lots were statistically different from the population mean of 1,500 pounds per square inch are presented in figure 4. A multiple t-test analyzing data for each lot individually are presented in figure 5.
+
+
 
 
