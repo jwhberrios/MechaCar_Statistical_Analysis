@@ -54,3 +54,6 @@ figure 4. T-test results for all manufacturing lots
 
 figure 5. Multiple t-test results comparing each individual lots
 
+### Results
+
+The results for all manufacturing lots did not result in a statistically significant different mean (p <0.05). However, the mean for lot 3 in the multiple t-test yielded significantly different mean value (p < 0.05).
