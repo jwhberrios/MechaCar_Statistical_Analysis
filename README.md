@@ -1,8 +1,8 @@
 # MechaCar_Statistical_Analysis
 Auto Production Data Analysis Using R to perform linear regression test, t-tests, and create summary statistics of production data on an autopmobile prototype.
 
-## Linear Regression to Predict MPG
-A linear regression test was performed using the following variables to predict MPG:
+## Muiltiple Linear Regression to Predict MPG
+A multiple linear regression test was performed using the following variables to predict MPG:
 * Vehicle length
 * Vehicle weight
 * spoiler angle
@@ -11,9 +11,9 @@ A linear regression test was performed using the following variables to predict 
 
 The results are presented below in figure 1.
 
-![figure 1. Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
+![figure 1. Multiple Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
 
-figure 1. Linear regression to predict MPG result output
+figure 1. Multiple Linear regression to predict MPG result output
 
 ### Results
 Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
@@ -44,6 +44,30 @@ As such, based on this data analyses, the current manufacturing data meets the d
 T-tests were performed to determine if all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch.
 The results of the simple student t-test to determine if all manufacturing lots were statistically different from the population mean of 1,500 pounds per square inch are presented in figure 4. A multiple t-test analyzing data for each lot individually are presented in figure 5.
 
+![figure 4. One sample t-test results for all manufacturing lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/One%20sample%20t-test.png)
+
+figure 4. T-test results for all manufacturing lots
 
 
+
+![figure 5. Multiple t-test results comparing each individual lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Mulitple_t_test.png)
+
+figure 5. Multiple t-test results comparing each individual lots
+
+### Results
+
+The results for all manufacturing lots did not result in a statistically significant different mean (p <0.05) compared to the population mean. However, the mean for lot 3 in the multiple t-test yielded significantly different mean (p < 0.05) from the population value. It's mean of 1496.14 PSI is statitistically less than the population mean of 1500 PSI.
+
+
+## Study Design: MechaCar vs Competition
+
+In this study, the statement of the problem is how does MechaCar's drivetrain (AWD vs 2WD) compare to other competitor vehicle's drivetrain on annual maintenance cost? The metrics to test will be the mean, median, and standard deviation of annual maintenance cost for MechaCar with AWD and 2WD drivetrains and its competitor's automobiles with AWD and 2WD drivetrains.
+The null hypothesis would be there will no difference in maintenance cost between MechaCars with AWD and 2WD drivetrain and its competitor's vehicles with AWD and 2WD drivetrains.
+
+The first alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with AWD compared to its competitor's vehicles with AWD.
+The second alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with 2WD compared to its competitor's vehicles with 2WD.
+
+The statistical test to run this analysis will be a 2x2 ANOVA test because the independent variable is a two level categorical variable (MechaCar Vs Competitor's Vehicles; AWD vs 2WD drivetrain) and the dependent variable is continuous (annual maintenance cost). The overall analysis is looking for statistical differences in means between more than 2 sample groups.
+
+In order to run this analysis, the data to be used would be the annual maintenance cost between vehicles (MechaCar and its competitor's vehicles) that have full time  AWD options and those with 2WD options only.
 
