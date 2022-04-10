@@ -44,8 +44,12 @@ As such, based on this data analyses, the current manufacturing data meets the d
 T-tests were performed to determine if all manufacturing lots and each lot individually were statistically different from the population mean of 1,500 pounds per square inch.
 The results of the simple student t-test to determine if all manufacturing lots were statistically different from the population mean of 1,500 pounds per square inch are presented in figure 4. A multiple t-test analyzing data for each lot individually are presented in figure 5.
 
-![figure 4. One sample t-test results for all manufacturing lots]()
+![figure 4. One sample t-test results for all manufacturing lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/One%20sample%20t-test.png)
 
 figure 4. T-test results for all manufacturing lots
 
+![figure 4. One sample t-test results for all manufacturing lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/One%20sample%20t-test.png)
+
+![figure 5. Multiple t-test results comparing each individual lots]()
+figure 5. Multiple t-test results comparing each individual lots
 
