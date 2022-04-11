@@ -13,7 +13,9 @@ The results are presented below in figure 1.
 
 ![figure 1. Multiple Linear Regression to Predict MPG](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/MLR_output.png)
 
-figure 1. Multiple Linear regression to predict MPG result output
+**figure 1. Multiple Linear regression to predict MPG result output**
+
+--------------------------------------------------------------------------
 
 ### Results
 Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
@@ -26,13 +28,13 @@ The mean, meadian, variance, and standard deviation was calculated using suspens
 
 ![figure 2. Summary statistic table](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Coil_summary_table.png)
 
-figure 2. Summary statistic table 
+**figure 2. Summary statistic table** 
 
-
+---------------------------------------------------------------
 
 ![figure 3. Summary statistic table per lot](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Summary_lot_table.png)
 
-figure 3. Summary statistic table per lot
+**figure 3. Summary statistic table per lot**
 
 ### Results
 With the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch, the variance presented in figure 2 is below 100 PSI. The variance for each lot presented in figure 3 indicates the suspension coil during production does not exceed design specifications for lots 1 & 2. However, lot 3 shows a variance greater than 100 (170 PSI).
@@ -46,13 +48,13 @@ The results of the simple student t-test to determine if all manufacturing lots 
 
 ![figure 4. One sample t-test results for all manufacturing lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/One%20sample%20t-test.png)
 
-figure 4. T-test results for all manufacturing lots
+**figure 4. T-test results for all manufacturing lots**
 
-
+----------------------------------------------------------------------------
 
 ![figure 5. Multiple t-test results comparing each individual lots](https://github.com/jwhberrios/MechaCar_Statistical_Analysis/blob/main/Resources/Mulitple_t_test.png)
 
-figure 5. Multiple t-test results comparing each individual lots
+**figure 5. Multiple t-test results comparing each individual lots**
 
 ### Results
 
