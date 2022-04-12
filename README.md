@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-Auto Production Data Analysis Using R to perform linear regression test, t-tests, and create summary statistics of production data on an autopmobile prototype.
+Auto Production Data Analysis Using R and RStudio to perform linear regression test, t-tests, and create summary statistics of production data on an automobile (MechaCar) prototype.
 
 ## Muiltiple Linear Regression to Predict MPG
 A multiple linear regression test was performed using the following variables to predict MPG:
