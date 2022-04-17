@@ -20,7 +20,7 @@ The results are presented below in figure 1.
 ### Results
 Based on the result output for the linear regression test, vehicle length, ground clearance, and the y-intercept were found to be statistically significant in contributing to the variance to the MPG variable with a p value < 0.05.
 
-The slope of this linear model is not considered to be zero becuase the R squared value is 0.71. Since this R squared value indicates a strong relationship and a statistically siginficant relationship (p < 0.05) exists between some variables (vehicle length and ground clearance) used in this regression test to predict MPG, this linear model can predict MPG of MechaCar prototypes effectively.
+The slope of this linear model is not considered to be zero because the R squared value is 0.71. Since this R squared value indicates a strong relationship and a statistically siginficant relationship (p < 0.05) exists between some variables (vehicle length and ground clearance) used in this regression test to predict MPG, this linear model can predict MPG of MechaCar prototypes effectively.
 
 
 ## Summary Statistics on Suspension Coils
