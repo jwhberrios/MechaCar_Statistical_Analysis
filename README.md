@@ -69,7 +69,7 @@ The null hypothesis would be there will no difference in maintenance cost betwee
 The first alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with AWD compared to its competitor's vehicles with AWD.
 The second alternative hypothesis is a significant difference will be observed in annual maintenance cost between MechaCars with 2WD compared to its competitor's vehicles with 2WD.
 
-The statistical test to run this analysis will be a 2x2 ANOVA test because the independent variable is a two level categorical variable (MechaCar Vs Competitor's Vehicles; AWD vs 2WD drivetrain) and the dependent variable is continuous (annual maintenance cost). The overall analysis is looking for statistical differences in means between more than 2 sample groups.
+The statistical test to run this analysis will be a 2x2 Independent Group ANOVA test because the independent variable contain two types of categorical variables (MechaCar Vs Competitor's Vehicles; AWD vs 2WD drivetrain) and the dependent variable is continuous (annual maintenance cost). The overall analysis is looking for statistical differences in means between more than 2 sample groups.
 
 In order to run this analysis, the data to be used would be the annual maintenance cost between vehicles (MechaCar and its competitor's vehicles) that have full time  AWD options and those with 2WD options only.
 
